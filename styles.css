@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(180deg, white, gray);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+    gap: 25px;
+}
+
+input {
+    width: 250px;
+    height: 25px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: lightcoral;
+    
+}
